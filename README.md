@@ -100,8 +100,7 @@ http://localhost:3000
 ```
 ##  Live Demo
 
-[https://your-netlify-link.netlify.app
-]
+https://subtle-hummingbird-7e5052.netlify.app/
 ---
 
 ##  Key Concepts Used
